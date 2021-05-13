@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HouseDecor3d",
+"productVersion": "0.1",
+"dataUrl": "12ecccce2d90d2137e01f0082f4bbfbb.unityweb",
+"wasmCodeUrl": "60eb36622b8165f7b8eb85f88bd78a3a.wasm",
+"wasmFrameworkUrl": "ef7633a56fa274c1c740a71d4de1422b.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
